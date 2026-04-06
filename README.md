@@ -1,4 +1,4 @@
-# Social Flow AI
+# Social Copilot AI
 
 An AI-powered social media management platform for creating, scheduling, and analyzing content across multiple platforms.
 
